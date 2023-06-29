@@ -60,6 +60,8 @@ BenchmarkDotNet.Artifacts/
 # .NET Core
 project.lock.json
 project.fragment.lock.json
+appsettings.Development.json
+appsettings.json
 artifacts/
 
 # ASP.NET Scaffolding
@@ -652,7 +654,6 @@ paket-files/
 
 # FAKE - F# Make
 .fake/
-
 # JetBrains Rider
 .idea/
 *.sln.iml
